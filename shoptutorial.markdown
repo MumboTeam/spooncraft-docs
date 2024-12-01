@@ -1,6 +1,6 @@
 ---
 title: "Creating a shop"
-description: "On Spooncraft, you can create shops using Shopkeepers which protects your shop from stealing, and provides a simple villager interface for players to buy items from. However you do not have to use this system if you don't want to."
+description: "On Spooncraft, you can create shops using Universal Shops which protects your shop from stealing, and provides a simple villager interface for players to buy items from. However you do not have to use this system if you don't want to."
 permalink: /shoptutorial/
 layout: single
 sidebar:

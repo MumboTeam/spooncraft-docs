@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2024-10-01
+last_modified_at: 2024-12-01
 toc: true
 ---
 
@@ -80,7 +80,7 @@ Yes, you can, but please keep them as lag free as possible! Ideally, they should
 
 ### How do I claim land?
 
-To claim land, you need a golden hoe. To create a claim, right click on a block to set your first point, and then right click again on another block to set your second point.
+To claim land, you need a [claim scroll]({{ site.url }}{{ site.baseurl }}/craftingrecipes/#claim-scroll). To create a claim, right click on a block to set your first point, and then right click again on another block to set your second point.
 
 After doing this you should be able to see a visual representation of your claim.
 
@@ -104,9 +104,7 @@ Please note this cannot be undone unless you reclaim your area.
 
 Yes!
 
-If you create a claim and don't build within it for 28 days, you will automatically lose this claim (this is to prevent people hogging areas and doing nothing with them).
-
-If you are inactive for 84 days (don't log into the server) all of your claimed land will be open to the public again, your builds will not be removed though.
+If you are inactive for 90 days (don't log into the server) all of your claimed land will be open to the public again, your builds will not be removed though.
 
 If you have accrued the maximum number of claim blocks (500,000) then you're safe! You will not lose any of your claims.
 

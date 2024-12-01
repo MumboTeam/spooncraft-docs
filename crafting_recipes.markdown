@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2023-06-28
+last_modified_at: 2024-12-01
 toc: true
 ---
 There are various crafting improvements on the server, which are all listed below for your convenience.
@@ -22,10 +22,6 @@ There are various crafting improvements on the server, which are all listed belo
 ![stair]({{ site.url }}{{ site.baseurl }}/assets/images/recipes/stair.png){: .align-center}
 
 ![trapdoor]({{ site.url }}{{ site.baseurl }}/assets/images/recipes/trapdoor.png){: .align-center}
-
-### Cheaper TNT
-
-![tnt]({{ site.url }}{{ site.baseurl }}/assets/images/recipes/tnt.png){: .align-center}
 
 ### Craftable blackstone
 
@@ -56,3 +52,11 @@ There are various crafting improvements on the server, which are all listed belo
 ### Universal dyeing
  
 ![universal_dyeing]({{ site.url }}{{ site.baseurl }}/assets/images/recipes/universal_dyeing.png){: .align-center}
+
+### Claim scroll
+
+![claim_scroll]({{ site.url }}{{ site.baseurl }}/assets/images/recipes/claim_scroll.png){: .align-center}
+
+### Claim checker
+
+![claim_checker]({{ site.url }}{{ site.baseurl }}/assets/images/recipes/claim_checker.png){: .align-center}

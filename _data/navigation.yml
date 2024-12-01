@@ -25,6 +25,8 @@ sidebar:
         url: /craftingrecipes/
       - title: "Allowed mods"
         url: /mods/
+      - title: "Commands"
+        url: /commands/
   - title: "Downloads"
     children:
       - title: "World Downloads"
