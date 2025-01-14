@@ -31,7 +31,7 @@ Mods that are only designed to change the look of the game and do not affect any
 
 This also includes mods that show you information already available elsewhere, such as [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud), which is a customisable display showing the same information visible by pressing F3 in vanilla.
 
-Shader mods such as [Iris](https://irisshaders.net/) and [OptiFine](https://optifine.net/home) are also allowed.
+Shader mods such as [Iris](https://irisshaders.dev/) and [OptiFine](https://optifine.net/home) are also allowed.
 
 ### Minimaps
 Minimaps such as [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/) are allowed, considering that an online map is available to all players anyway.
