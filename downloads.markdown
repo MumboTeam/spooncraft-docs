@@ -78,7 +78,7 @@ You can download the worlds from all previous seasons here.
 
 ### Skyblock Miniseason
 
-**Size:** 270MB \
+**Size:** 284MB \
 **Version:** 1.16.5 \
 **Spawn:** 265, 66, 214
 {: .notice--info}
@@ -88,7 +88,7 @@ You can download the worlds from all previous seasons here.
 
 ### MC Earth Miniseason
 
-**Size:** 5.8GB \
+**Size:** 6.3GB \
 **Version:** 1.17.1 \
 **Spawn:** 10192, 43, 5869
 {: .notice--info}
@@ -98,7 +98,7 @@ You can download the worlds from all previous seasons here.
 
 ### Season 3
 
-**Size:** 11.2GB \
+**Size:** 12.1GB \
 **Version:** 1.19.1 \
 **Spawn:** 0, 91, 0
 {: .notice--info}
@@ -108,7 +108,7 @@ You can download the worlds from all previous seasons here.
 
 ### Modded Miniseason
 
-**Size:** 1.4GB \
+**Size:** 1.5GB \
 **Version:** 1.20.1 [(Spoonpack)]({{ site.url }}{{ site.baseurl }}/moddedsetup/) \
 **Spawn:** 0, 68, 0
 {: .notice--info}
@@ -118,7 +118,7 @@ You can download the worlds from all previous seasons here.
 
 ### Season 4
 
-**Size:** 4.4GB \
+**Size:** 4.7GB \
 **Version:** 1.20.4 \
 **Spawn:** -23, 102, 16
 {: .notice--info}
@@ -128,7 +128,7 @@ You can download the worlds from all previous seasons here.
 
 ### Skyblock Miniseason S2
 
-**Size:** 58.4MB \
+**Size:** 61MB \
 **Version:** 1.21.1 \
 **Spawn:** 0, 71, 0
 {: .notice--info}
