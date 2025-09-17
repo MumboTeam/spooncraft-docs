@@ -30,7 +30,7 @@ Click "Accounts" in the top right of the launcher, then "Manage Accounts...". Se
 
 ### 4. Installing the modpack
 
-Click "Add Instance" in the top left of the launcher, then go to "Import" on the left. Then, paste in `https://mumbodiscord.github.io/spoonpack/Spoonpack.zip` and click OK at the bottom.
+Click "Add Instance" in the top left of the launcher, then go to "Import" on the left. Then, paste in `https://mumboteam.github.io/spoonpack/Spoonpack.zip` and click OK at the bottom.
 
 ![gui4]({{ site.url }}{{ site.baseurl }}/assets/images/moddedsetup/import.png){: .align-center}
 
