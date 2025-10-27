@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2024-12-01
+last_modified_at: 2025-10-27
 toc: true
 ---
 
@@ -50,7 +50,7 @@ Do not maliciously destroy other people's builds, whether it is using fire, TNT 
 
 ### 4. No Hacking or duplicating
 
-The use of hacked clients is prohibited. This means that it is not permitted to use x-ray hacking (including x-ray texture packs), aimbot, autoclickers, fullbright, etc. The use of vanilla bugs is allowed however duplication glitch exploitation is not permitted, with the only exception being one TNT duper allowed per player.
+The use of hacked clients is prohibited. This means that it is not permitted to use x-ray hacking (including x-ray texture packs), aimbot, autoclickers, etc. The use of vanilla bugs is allowed however duplication glitch exploitation is not permitted, with the only exception being one TNT duper allowed per player.
 
 ### 5. Do not maliciously kill other players
 

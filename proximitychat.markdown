@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2025-09-17
+last_modified_at: 2025-10-27
 toc: true
 ---
 
@@ -26,15 +26,15 @@ Proximity chat is not compatible with **Bedrock Edition**.
 
 1. Go to [the fabric website](https://fabricmc.net/use/), and click **Download installer (Universal/.JAR).**
 2. Run the fabric installer by double clicking the jar file you just downloaded (close the Minecraft launcher while doing this). If it doesn’t open and instead asks you what to open it with, you need to [install java](https://www.java.com/).
-3. Make sure Minecraft Version is set to **1.21.8**, and leave everything else as default, then click install.
-4. Open the Minecraft Launcher, select the **fabric-loader-1.21.8** profile and then launch the game. Once the game loads, make sure it says **Minecraft 1.21.8/Fabric** on the bottom left in the main menu, then close the game again.
+3. Make sure Minecraft Version is set to **1.21.10**, and leave everything else as default, then click install.
+4. Open the Minecraft Launcher, select the **fabric-loader-1.21.10** profile and then launch the game. Once the game loads, make sure it says **Minecraft 1.21.10/Fabric** on the bottom left in the main menu, then close the game again.
 5. Download the Simple Voice Chat mod from [here](https://modrinth.com/plugin/simple-voice-chat).
 6. **On windows:** Press windows key + r and type `%appdata%` and press OK. Then open the `.minecraft` folder and then open the `mods` folder. \
 **On mac:** Open spotlight search and type: `~/Library/Application Support/minecraft`, then hit enter and open the `mods` folder. \
 **On Linux:** I can’t give you detailed steps here since it’ll vary from distro to distro, but you’ll need to browse to `~/.minecraft`. You can use google for more detailed steps.
-7. Once you are in the .minecraft folder, open the `mods` folder, then copy the `voicechat-fabric-1.21.8-x.x.x.jar` you downloaded into it.
+7. Once you are in the .minecraft folder, open the `mods` folder, then copy the `voicechat-fabric-1.21.10-x.x.x.jar` you downloaded into it.
 8. **(Optional)** If you want to, you can also download other fabric mods and place them in the `mods` folder. See [Allowed mods]({{ site.url }}{{ site.baseurl }}/mods/) to find out which other mods you can use.
-9. Open the Minecraft Launcher again, select the **fabric-loader-1.21.8** profile and launch the game. Proximity chat should now be installed, and you can try connecting to Spooncraft.
+9. Open the Minecraft Launcher again, select the **fabric-loader-1.21.10** profile and launch the game. Proximity chat should now be installed, and you can try connecting to Spooncraft.
 
 ## Important info
 

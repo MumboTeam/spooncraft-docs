@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2025-08-25
+last_modified_at: 2025-10-24
 toc: false
 ---
 
@@ -19,5 +19,5 @@ You can either accept the resource pack when logging into the server (the easies
 If you want to download it locally, you can download it below, place it in your resource packs folder, then disable the server resource pack from the server list and enable it in your resource pack options.
 
 
-**[Download (Java Edition)]({{ site.url }}{{ site.baseurl }}/files/resource_packs/SpooncraftResourcePack_20250825_Java.zip)**
+**[Download (Java Edition)]({{ site.url }}{{ site.baseurl }}/files/resource_packs/SpooncraftResourcePack_20251024_Java.zip)**
 {: .notice--success}

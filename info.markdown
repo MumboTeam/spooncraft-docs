@@ -6,7 +6,7 @@ layout: single
 sidebar:
   title: "Pages"
   nav: sidebar
-last_modified_at: 2024-12-01
+last_modified_at: 2025-10-27
 toc: true
 ---
 
@@ -31,7 +31,7 @@ Here's a list of most things you need to know, like changes from plugins and dat
 - Player sleep percentage is set to 10%.
 - There are a few crafting changes, which are all listed [here]({{ site.url }}{{ site.baseurl }}/craftingrecipes/).
 - **PvP** is disabled by default, but if you want to opt in to PvP then you can do so using the **/pvp** command.
-- **Powered rails** will make minecarts go much faster when placed above **packed ice**, and even faster when placed above **blue ice**. **Obsidian** will slow them down.
+- **Powered rails** will make minecarts go much faster when placed above **packed ice**, and even faster when placed above **blue ice**. **Slime blocks** will slow them down.
 - **Proximity voice chat** is available (java only), using the [Simple Voice Chat]({{ site.url }}{{ site.baseurl }}/proximitychat/) mod. Also, talking in voice chat will activate sculk sensors.
 - There are multiple **custom music discs**, see if you can collect them all!
 - **Mini blocks** can be obtained using the stonecutter.
