@@ -3,6 +3,9 @@
    ========================================================================== */
 
 $(document).ready(function() {
+  window.location.href = "https://grum.bot.nu/spooncraft/docs";
+  return;
+  
   // FitVids init
   $("#main").fitVids();
 
